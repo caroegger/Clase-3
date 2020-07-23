@@ -1,0 +1,21 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.tiempo {
+    font-size: 13px;
+    color: #c0c0c0;
+}
+
+a {
+    color: rgb(122, 142, 255);
+    text-decoration: none;
+}

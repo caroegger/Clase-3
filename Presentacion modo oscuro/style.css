@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+
+body {
+    background-color: #191919;
+    color: #FAFAFA;
+}
+
+h1 {
+    font-family: Mukta;
+    font-size: 120px;
+    font-weight: 800;
+    
+}
+
+p {
+    font-family: Mukta;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.nombre {
+    color: #751e8c;
+}
+.restauradora {
+    color: #823497;
+}
+.programadora {
+    color: #904aa3;
+}
+.gatos {
+    color: #9e61ae;
+}
+.videojuegos {
+    color: #ac78ba;
+}

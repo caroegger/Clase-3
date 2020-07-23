@@ -1,0 +1,35 @@
+.pendiente {
+    color: blue;
+}
+
+.haciendo {
+    color: orange;
+}
+
+.hecha {
+    color: green;
+}
+
+.cancelada {
+    color: red;
+}
+
+.fecha {
+    color: #c2c1c1;
+    font-size: 32px;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 28px;
+}
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

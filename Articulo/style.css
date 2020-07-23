@@ -1,0 +1,25 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 89px;
+}
+
+a {
+    color: lightblue;
+}
+
+.texto {
+    color: darkgrey;
+}
+
+.italica {
+    font-style: italic;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
